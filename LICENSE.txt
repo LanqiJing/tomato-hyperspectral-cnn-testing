@@ -1,0 +1,31 @@
+CUSTOM LICENSE FOR TOMATO HYPERSPECTRAL CNN TESTING PACKAGE
+
+Copyright (c) 2026 The Authors
+
+1. PERMITTED USE
+
+These materials may be used for academic research, education, and verification of the results described in the associated manuscript.
+
+2. ATTRIBUTION
+
+Users must acknowledge the original authors when using these materials and cite the associated manuscript in relevant research publications. Users must not claim the original models, code, or research materials as their own work.
+
+3. RESTRICTIONS
+
+Without prior written permission from the rights holders, users may not redistribute, republish, sublicense, or repackage the trained model weights or the software package. Users may not modify or redistribute the trained model weights without prior written permission.
+
+4. OWNERSHIP
+
+Access to these materials does not transfer ownership of any intellectual property. All rights not expressly granted are reserved by the respective rights holders.
+
+5. THIRD-PARTY MATERIALS
+
+Any third-party materials remain subject to their own applicable licenses and terms.
+
+6. DISCLAIMER
+
+These materials are provided as is, without warranties of any kind, to the extent permitted by applicable law.
+
+7. PERMISSION REQUESTS
+
+For permission to use, modify, or redistribute these materials beyond the terms stated above, contact the corresponding author.
