@@ -1,0 +1,32 @@
+
+cff-version: 1.2.0
+message: >-
+  If you use these models or testing materials, please cite the
+  associated manuscript. The manuscript is currently under review
+  at Plant Phenomics. Full citation details will be added after publication.
+title: "Simultaneous Detection of Antioxidant Enzyme Activities in Tomato Leaves under Salt Stress Using Hyperspectral Imaging and Multitask Deep Learning"
+type: software
+authors:
+  - family-names: Jing
+    given-names: Lanqi
+  - family-names: Yan
+    given-names: Yan
+  - family-names: Lin
+    given-names: Dinxin
+  - family-names: Gao
+    given-names: Yanming
+  - family-names: Li
+    given-names: Jianshe
+  - family-names: Ma
+    given-names: Hua
+  - family-names: Wu
+    given-names: Longguo
+  - family-names: Ma
+    given-names: Xiaolong
+  - family-names: Kou
+    given-names: Erfeng
+  - family-names: Lv
+    given-names: Pengyuan
+  - family-names: Cao
+    given-names: Yune
+repository-code: "https://github.com/LanqiJing/tomato-hyperspectral-cnn-testing"
